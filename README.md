@@ -19,7 +19,7 @@ The purpose of this excercise is to create joins with different tables and filte
 
 - There are 450 staff, 430 senior engineers, 274 senior staff, 274 engineers, 77 technical leaders and 44 assistent engineers are available to be mentors.
 
-![alt text](https://github.com/shuyaof/Pewlett-Hackard-Analysis/blob/main/Resources/mentorship%20eligibility.PNG "mentorship_eligibility.PNG")
+![alt text](https://github.com/shuyaof/Pewlett_Hackard_Analysis/blob/main/Resources/mentorship_eligibility.PNG "mentorship_eligibility.PNG")
 
 **3. Summary:**
 ### High-level responses
@@ -27,7 +27,7 @@ The purpose of this excercise is to create joins with different tables and filte
 
 - There are not enough qualified retirement-ready employees in the department to mentor the next generation of Pewlett Hackard employees. The number of available mentors for every position is way below the unique positions listed below.
 
-![alt text](https://github.com/shuyaof/Pewlett-Hackard-Analysis/blob/main/Resources/retiring_title.PNG "retiring_title.PNG")
+![alt text](https://github.com/shuyaof/Pewlett_Hackard_Analysis/blob/main/Resources/retiring_title.PNG "retiring_title.PNG")
 
 
 
