@@ -22,7 +22,7 @@ The purpose of this excercise is to create joins with different tables and filte
 ![alt text](https://github.com/shuyaof/Pewlett_Hackard_Analysis/blob/main/Resources/mentorship_eligibility.PNG "mentorship_eligibility.PNG")
 
 ## **3. Summary:**
-### High-level responses
+### _High-level responses_
 - For the position like Senior Engineer is what silver tusnami held right before retirement. There are 29k senior engieer roles, 28k senior staff, 14k engineers, 12k staff , 4.5k technical leader, 1.8k assistent engineer and 2 managers roles. When those roles leave the work force, it's going to make an impact.
 
 - There are not enough qualified retirement-ready employees in the department to mentor the next generation of Pewlett Hackard employees. The number of available mentors for every position is way below the unique positions listed below.
