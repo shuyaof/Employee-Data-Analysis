@@ -3,7 +3,7 @@
 
 The purpose of this excercise is to create joins with different tables and filter data based on birthday and end date on employee data for the silver tsunami.
 
-**2. Results:**
+## **2. Results:**
 ### Four major points 
 - From the retirement title table, over 72k of the silver tsunami is still in the work force.
 
@@ -21,7 +21,7 @@ The purpose of this excercise is to create joins with different tables and filte
 
 ![alt text](https://github.com/shuyaof/Pewlett_Hackard_Analysis/blob/main/Resources/mentorship_eligibility.PNG "mentorship_eligibility.PNG")
 
-**3. Summary:**
+## **3. Summary:**
 ### High-level responses
 - For the position like Senior Engineer is what silver tusnami held right before retirement. There are 29k senior engieer roles, 28k senior staff, 14k engineers, 12k staff , 4.5k technical leader, 1.8k assistent engineer and 2 managers roles. When those roles leave the work force, it's going to make an impact.
 
