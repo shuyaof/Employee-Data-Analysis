@@ -4,7 +4,7 @@
 The purpose of this excercise is to create joins with different tables and filter data based on birthday and end date on employee data for the silver tsunami.
 
 ## **2. Results:**
-### Four major points 
+### _Four major points_ 
 - From the retirement title table, over 72k of the silver tsunami is still in the work force.
 
 ![alt text](https://github.com/shuyaof/Pewlett_Hackard_Analysis/blob/main/Resources/employees%20current%20at%20work.PNG "employees current at work.PNG")
