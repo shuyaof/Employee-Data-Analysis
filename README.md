@@ -7,19 +7,19 @@ The purpose of this excercise is to create joins with different tables and filte
 ### Four major points 
 - From the retirement title table, over 72k of the silver tsunami is still in the work force.
 
-![alt text](https://github.com/shuyaof/Pewlett-Hackard-Analysis/main/Resources/employees%20current%20at%20work.PNG "employees current at work.PNG")
+![alt text](https://github.com/shuyaof/Pewlett_Hackard_Analysis/blob/main/Resources/employees%20current%20at%20work.PNG "employees current at work.PNG")
 
 - The most commomn retiring title is Senior Engineer, there are 29k in this data set. The least common retiring title is Manager.
 
-![alt text](https://github.com/shuyaof/Pewlett-Hackard-Analysis/main/Resources/retiring_title.PNG "retiring_title.PNG")
+![alt text](https://github.com/shuyaof/Pewlett_Hackard_Analysis/blob/main/Resources/retiring_title.PNG "retiring_title.PNG")
 
 - Most emplopyees holds different titles throughout their career. 
 
-![alt text](https://github.com/shuyaof/Pewlett-Hackard-Analysis/main/Resources/mutiple%20titles%20before%20retirement.PNG "mutiple titles before retirement.PNG")
+![alt text](https://github.com/shuyaof/Pewlett_Hackard_Analysis/blob/main/Resources/mutiple%20titles%20before%20retirement.PNG "mutiple titles before retirement.PNG")
 
 - There are 450 staff, 430 senior engineers, 274 senior staff, 274 engineers, 77 technical leaders and 44 assistent engineers are available to be mentors.
 
-![alt text](https://github.com/shuyaof/Pewlett-Hackard-Analysis/main/Resources/mentorship%20eligibility.PNG "mentorship_eligibility.PNG")
+![alt text](https://github.com/shuyaof/Pewlett-Hackard-Analysis/blob/main/Resources/mentorship%20eligibility.PNG "mentorship_eligibility.PNG")
 
 **3. Summary:**
 ### High-level responses
@@ -27,7 +27,7 @@ The purpose of this excercise is to create joins with different tables and filte
 
 - There are not enough qualified retirement-ready employees in the department to mentor the next generation of Pewlett Hackard employees. The number of available mentors for every position is way below the unique positions listed below.
 
-![alt text](https://github.com/shuyaof/Pewlett-Hackard-Analysis/main/Resources/retiring_title.PNG "retiring_title.PNG")
+![alt text](https://github.com/shuyaof/Pewlett-Hackard-Analysis/blob/main/Resources/retiring_title.PNG "retiring_title.PNG")
 
 
 
