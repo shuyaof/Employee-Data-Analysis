@@ -37,14 +37,14 @@ ORDER BY emp_no,to_date DESC;
 --Deliverable1.10
 --export retirement_title table into csv
 
-Deliverable1.11-1.12
+--Deliverable1.11-1.12
 select distinct on (e.emp_no) e.emp_no, e.first_name, e.last_name, t.title
 into unique_titles
 from employees e
 inner join titles t
 on e.emp_no= t.emp_no
 order by e.emp_no,to_date DESC
-Deliverable1.13
+--Deliverable1.13
 --export unique titles to csv
 --Deliverable1.16-1.18
 select count(title), title 
@@ -68,7 +68,7 @@ d.to_date='9999-01-01'
 order by e.emp_no
 --export retirement_titles,unique_titles,retiring_titles
 
-Deliverable3
+--Deliverable3
 select count(title), title 
 from mentorship_eligibilty
 group by title
