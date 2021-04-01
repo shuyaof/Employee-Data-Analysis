@@ -13,7 +13,7 @@ The purpose of this excercise is to create joins with different tables and filte
 
 ![alt text](https://github.com/shuyaof/Pewlett_Hackard_Analysis/blob/main/Resources/retiring_title.PNG "retiring_title.PNG")
 
-- Most emplopyees holds different titles throughout their career. 
+- Most employees holds different titles throughout their career. 
 
 ![alt text](https://github.com/shuyaof/Pewlett_Hackard_Analysis/blob/main/Resources/mutiple%20titles%20before%20retirement.PNG "mutiple titles before retirement.PNG")
 
