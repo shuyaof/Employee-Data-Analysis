@@ -1,4 +1,4 @@
-# Pewlett-Hackard-Analysis
+# Employee-Data-Analysis
 ## **1. Overview of the analysis:**
 
 The purpose of this excercise is to create joins with different tables and filter data based on birthday and end date on employee data for the silver tsunami.
